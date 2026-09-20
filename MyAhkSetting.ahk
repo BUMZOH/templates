@@ -31,3 +31,21 @@ vk1D & ,::Send,{Blind}{PgDn}
 vk1D & n::Send,{Blind}{Del}
 vk1D & y::Send,{Blind}{BS}
 
+
+; --------------------------------------
+; Character input
+; --------------------------------------
+
+vk1D & q::Send,[
+vk1D & w::Send,@
+
+vk1D & a::Send,]
+vk1D & s::Send,:
+vk1D & d::Send,;
+
+vk1D & z::Send,_
+vk1D & x::Send,/
+vk1D & c::Send,.
+vk1D & v::Send,,
+
+
