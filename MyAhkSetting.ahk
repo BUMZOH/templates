@@ -47,4 +47,12 @@ vk1D & z::Send,_
 vk1D & x::Send,/
 vk1D & c::Send,.
 vk1D & v::Send,,
+vk1D & Space::Send,{Enter}
 
+
+
+; --------------------------------------
+; Convert key -> Enter
+; --------------------------------------
+
+;vk1C::Send,{Enter}
