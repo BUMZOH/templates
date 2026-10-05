@@ -35,6 +35,10 @@ vk1D & y::Send,{Blind}{BS}
 ; --------------------------------------
 ; Character input
 ; --------------------------------------
+vk1D & 1::Send,0
+vk1D & 2::Send,9
+vk1D & 3::Send,8
+vk1D & 4::Send,7
 
 vk1D & q::Send,[
 vk1D & w::Send,@
@@ -49,10 +53,3 @@ vk1D & c::Send,.
 vk1D & v::Send,,
 vk1D & Space::Send,{Enter}
 
-
-
-; --------------------------------------
-; Convert key -> Enter
-; --------------------------------------
-
-;vk1C::Send,{Enter}
