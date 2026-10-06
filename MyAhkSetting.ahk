@@ -42,6 +42,8 @@ vk1D & 4::Send,7
 
 vk1D & q::Send,[
 vk1D & w::Send,@
+vk1D & e::Send,-
+
 
 vk1D & a::Send,]
 vk1D & s::Send,:
@@ -52,4 +54,5 @@ vk1D & x::Send,/
 vk1D & c::Send,.
 vk1D & v::Send,,
 vk1D & Space::Send,{Enter}
+
 
